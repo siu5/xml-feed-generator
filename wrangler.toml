@@ -1,4 +1,4 @@
-name = "xml-feed-generator"
+name = "xmlfeedgenerator"
 main = "src/worker.js"
 compatibility_date = "2023-06-17"
 
