@@ -11,4 +11,7 @@
     "typescript": "^5.0.4",
     "wrangler": "^3.0.0"
   }
+  "dependencies": {
+  "better-sqlite3": "^11.0.0"
+  }
 }
