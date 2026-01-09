@@ -6,8 +6,8 @@ addEventListener('fetch', (event) => {
 
 async function handleRequest(request) {
   const feedUrls = [
-    'https://blog.cloudflare.com/rss/', // Replace with the URLs of your RSS feeds
-    'https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml',
+    'https://news.ltn.com.tw/rss/world.xml', // Replace with the URLs of your RSS feeds
+    'https://chinadigitaltimes.net/chinese/feed/',
     // 'https://example.com/rss-feed-url-3',
     // Add more feed URLs as needed
   ];
